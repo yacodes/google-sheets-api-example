@@ -1,0 +1,13 @@
+{
+  "name": "google-sheets-api-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aleksandr Yakunichev <canvaskisa@gmail.com> (https://www.npmjs.com/~canvaskisa)",
+  "license": "MIT",
+  "scripts": {
+    "start": "http-server -p 8000 ./html"
+  },
+  "dependencies": {
+    "http-server": "0.12.1"
+  }
+}
